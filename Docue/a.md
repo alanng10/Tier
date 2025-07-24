@@ -15,3 +15,7 @@ Tier 2 Any is goal Mark.
 Tier 3 Any is goal Park.
 
 Tier in Tier is subgoal in goal.
+
+Tier is depend on goal.
+
+Tier is not depend on progress.
