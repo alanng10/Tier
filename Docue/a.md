@@ -25,3 +25,7 @@ Goal most is Tier 3.
 Goal worth is Tier 2.
 
 Goal sense is Tier 1.
+
+Goal most worth is Tier 3.
+
+Goal worth most is Tier 2.
