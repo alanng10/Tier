@@ -23,3 +23,5 @@ Tier is not depend on progress.
 Goal most is Tier 3.
 
 Goal worth is Tier 2.
+
+Goal sense is Tier 1.
