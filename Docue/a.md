@@ -19,3 +19,7 @@ Tier in Tier is subgoal in goal.
 Tier is depend on goal.
 
 Tier is not depend on progress.
+
+Goal most is Tier 3.
+
+Goal worth is Tier 2.
