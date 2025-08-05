@@ -27,11 +27,3 @@ Goal worth is Tier 2.
 Goal sense is Tier 1.
 
 Goal most major between most, worth and sense determine tier.
-
-Tier park word is Live Tier park word.
-
-Tier 1 word is "Oran".
-
-Tier 2 word is "Alan".
-
-Tier 3 word is "Sera".
