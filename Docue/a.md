@@ -28,15 +28,6 @@ Goal sense is Tier 1.
 
 Goal most major between most, worth and sense determine tier.
 
-Tier 3 has park word.
-The word is "Seer".
-
-Tier 2 has park word.
-The word is "Peer".
-
-Tier 1 has park word.
-The word is "Deer".
-
 Tier 3 park word is most tier.
 
 Tier 2 park word is worth tier.
