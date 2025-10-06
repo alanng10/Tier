@@ -33,3 +33,6 @@ Tier 3 park word is most tier.
 Tier 2 park word is worth tier.
 
 Tier 1 park word is sense tier.
+
+Tier more high gain value relate to Tier more under gain
+value is provane.
